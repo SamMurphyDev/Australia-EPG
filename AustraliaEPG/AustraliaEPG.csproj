@@ -4,16 +4,18 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Authors>Sam Murphy</Authors>
     <Company>Sam Murphy</Company>
-    <Description>Provides API fetcher for Free to Air TV Channels and Shows for Australia. Can provide shows for today and the next six days. Can fetch metadata from the TV stations in relation to the shows.</Description>
-    <RepositoryUrl>https://github.com/Master-Mas/Austrlian-EPG</RepositoryUrl>
-    <PackageProjectUrl>https://github.com/Master-Mas/Austrlian-EPG</PackageProjectUrl>
-    <PackageLicenseUrl>https://github.com/Master-Mas/Austrlian-EPG/blob/master/LICENSE</PackageLicenseUrl>
+    <Description>Provides API fetcher for Free to Air TV Channels and Shows for Australia. Has the ability to fetch the channels for a particular Free to Air TV region, including all the shows for that channel and show metadata.</Description>
+    <RepositoryUrl>https://github.com/Master-Mas/Australia-EPG</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/Master-Mas/Australia-EPG</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/Master-Mas/Australia-EPG/blob/master/LICENSE</PackageLicenseUrl>
     <RepositoryType>git</RepositoryType>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <SignAssembly>false</SignAssembly>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <NeutralLanguage>en-AU</NeutralLanguage>
     <Copyright>Copyright 2019</Copyright>
+    <Version>1.0.1</Version>
+    <PackageReleaseNotes>Minor updates to project documentation</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
