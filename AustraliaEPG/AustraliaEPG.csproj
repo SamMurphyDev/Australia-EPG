@@ -10,8 +10,10 @@
     <PackageLicenseUrl>https://github.com/Master-Mas/Austrlian-EPG/blob/master/LICENSE</PackageLicenseUrl>
     <RepositoryType>git</RepositoryType>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <SignAssembly>true</SignAssembly>
+    <SignAssembly>false</SignAssembly>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <NeutralLanguage>en-AU</NeutralLanguage>
+    <Copyright>Copyright 2019</Copyright>
   </PropertyGroup>
 
   <ItemGroup>

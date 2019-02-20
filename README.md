@@ -1,5 +1,5 @@
 # Austrlian EPG
-Provides API fetcher for Free to Air TV Channels and Shows for Australia. Has the ability to fetch the channels for a particular Free to Air TV region, including all the shows for that chanell and show metadata. As required by the ACMA, today and the next six days of scheduling information is availbale.
+Provides API fetcher for Free to Air TV Channels and Shows for Australia. Has the ability to fetch the channels for a particular Free to Air TV region, including all the shows for that channel and show metadata. As required by the ACMA, today and the next six days of scheduling information is available.
 
 This library requires the use a internet connection and .Net 4.6.1. When getting the guide with show metadata it may take some time. Personally takes about 1:30 mins to retrieve all the data.
 
