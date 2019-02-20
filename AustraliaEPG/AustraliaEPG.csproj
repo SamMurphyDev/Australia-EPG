@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Sam Murphy</Authors>
+    <Company>Sam Murphy</Company>
+    <Description>Provides API fetcher for Free to Air TV Channels and Shows for Australia. Can provide shows for today and the next six days. Can fetch metadata from the TV stations in relation to the shows.</Description>
+    <RepositoryUrl>https://github.com/Master-Mas/Austrlian-EPG</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/Master-Mas/Austrlian-EPG</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/Master-Mas/Austrlian-EPG/blob/master/LICENSE</PackageLicenseUrl>
+    <RepositoryType>git</RepositoryType>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <SignAssembly>true</SignAssembly>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+  </ItemGroup>
+
+</Project>
