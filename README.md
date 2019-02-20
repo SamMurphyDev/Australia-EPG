@@ -110,7 +110,7 @@ Days of the week are done in a lowercase three letter abbreviations
 - sat
 - sun
 
-##Show Meta Data
+## Show Meta Data
 All these values can be accessed from the Show class.
 - Title: string
 - Time: string
