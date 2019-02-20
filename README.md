@@ -3,8 +3,12 @@ Provides API fetcher for Free to Air TV Channels and Shows for Australia. Has th
 
 This library requires the use a internet connection and .Net 4.6.1. When getting the guide with show metadata it may take some time. Personally takes about 1:30 mins to retrieve all the data.
 
+This library is available on the NuGet gallery and via DLL download.
+- NuGet: [https://www.nuget.org/packages/AustraliaEPG/](https://www.nuget.org/packages/AustraliaEPG/)
+- DLL: [https://github.com/Master-Mas/Austrlian-EPG/raw/master/Releases/1.0.0/AustraliaEPG.dll](https://github.com/Master-Mas/Austrlian-EPG/raw/master/Releases/1.0.0/AustraliaEPG.dll)
+
 ## How to Use
-Once you have referenced the DLL in your project. You will need to use the library inside the classes.
+Once you have referenced the library in your project. You will need to use the library inside the classes.
 ```C#
 using AustraliaEPG;
 ```
