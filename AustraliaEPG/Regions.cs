@@ -23,11 +23,11 @@
 
         //VIC
         public static readonly Region MELBOURNE = new Region("Melbourne", Region.LocationState.VIC, 94);
-        public static readonly Region ALBURY_WODONGA = new Region("Albury/WODONGA", Region.LocationState.VIC, 268);
+        public static readonly Region ALBURY_WODONGA = new Region("Albury/Wodonga", Region.LocationState.VIC, 268);
         public static readonly Region BALLARAT = new Region("Ballarat", Region.LocationState.VIC, 90);
         public static readonly Region BENDIGO = new Region("Bendigo", Region.LocationState.VIC, 266);
-        public static readonly Region GEELONG = new Region("GEELONG", Region.LocationState.VIC, 93);
-        public static readonly Region GIPPSLAND = new Region("GIPPSLAND", Region.LocationState.VIC, 98);
+        public static readonly Region GEELONG = new Region("Geelong", Region.LocationState.VIC, 93);
+        public static readonly Region GIPPSLAND = new Region("Gippsland", Region.LocationState.VIC, 98);
         public static readonly Region MILDURA_SUNRAYSIA = new Region("Mildura/Sunraysia", Region.LocationState.VIC, 95);
         public static readonly Region SHEPPARTON = new Region("Shepparton", Region.LocationState.VIC, 267);
 
@@ -54,7 +54,7 @@
         //WA
         public static readonly Region PERTH = new Region("Perth", Region.LocationState.WA, 101);
         public static readonly Region ALBANY = new Region("Albany", Region.LocationState.WA, 344);
-        public static readonly Region BUNBURY = new Region("BUNBURY", Region.LocationState.WA, 343);
+        public static readonly Region BUNBURY = new Region("Bunbury", Region.LocationState.WA, 343);
         public static readonly Region MANDURAH = new Region("Mandurah", Region.LocationState.WA, 342);
         public static readonly Region REGIONAL_WA = new Region("Regional WA", Region.LocationState.WA, 102);
 

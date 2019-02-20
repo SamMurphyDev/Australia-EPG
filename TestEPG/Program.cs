@@ -13,7 +13,7 @@ namespace Epg
         public Program()
         {
             Console.WriteLine(string.Join<Channel>(",\n\n", 
-                Guide.getGuide(Regions.CANBERRA, AustraliaTimeZone.EASTERN_TIME, AustraliaEPG.DayOfWeek.TUESDAY)));
+                Guide.getGuide(Regions.CANBERRA, AustraliaTimeZone.EASTERN_TIME, AustraliaEPG.DayOfWeek.WEDNESDAY, true)));
             Console.ReadLine();
         }
     }

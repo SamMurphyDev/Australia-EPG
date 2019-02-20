@@ -96,7 +96,7 @@
     <Content Include="Channel Assets\Win - TVSN.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\Coding\Csharp\Epg\AustraliaEPG\AustraliaEPG.csproj">
+    <ProjectReference Include="..\AustraliaEPG\AustraliaEPG.csproj">
       <Project>{0EEEDC9A-6F49-4AE4-97B6-AEFFDCF68354}</Project>
       <Name>AustraliaEPG</Name>
     </ProjectReference>
